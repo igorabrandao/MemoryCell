@@ -1,3 +1,4 @@
+/* Seção de inclusão de bibliotecas externas */
 #include <iostream>
 #include "mcell.h"
 
